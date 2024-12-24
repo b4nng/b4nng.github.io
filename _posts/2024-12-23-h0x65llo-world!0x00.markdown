@@ -1,0 +1,17 @@
+---
+layout: post
+title: "H\\x65llo world!\\x00"
+date: 2024-12-20 00:00:01 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: hello_world_new_black.png # Add image post (optional)
+---
+Hello everyone, my name is Jafar Mohammed Untar (b4ng), this is my personal blog, I am a Red Team Operator and Security Researcher, currently working at [Unidade 37](https://www.unidade37.com.br).
+
+I am in my journey to learn pwning and exploit development / binary/kernel exploitation, and I will put here write-ups and notes about CTFs and study content.
+
+I am specialized in penetration testing and red team operations, working professionally in the field for more than 2 years. Since the beginning I was really interested in pwning but never had the guts to start, until now.
+
+# Certifications
+- **OSCP+** - Offsec Certified Professional (Plus issued Nov 2024)
+- **eWPTXv2** - INE (f.k.a. e-Learning) Web Penetration Tester eXtreme v2
+- **DCPT** - DESEC Security Certified Penetration Tester 

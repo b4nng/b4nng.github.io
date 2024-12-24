@@ -1,25 +1,25 @@
-title: Hello, world! I'm David Freeman
+title: 0xb4ng
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
+author: b4ng # add your name
+author-img: pfpic.png # add your photo
+about-author: I'm a Red Team Operator and a Security Researcher, in my journey to learn pwning and exploit development / binary/kernel exploitation I will put here write-ups and notes about CTFs and study content. # add description
+social-twitter: sysc4ller # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-github: b4nng # add your Github handle
+social-linkedin: jafar-untar # add your Linkedin handle
+social-email: jafar.untar@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: b4ng Blog # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
