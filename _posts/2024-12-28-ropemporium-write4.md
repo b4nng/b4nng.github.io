@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ropemporium - callme
+title: ropemporium - write4
 date: 2024-12-27 13:37:00 +0300
 description: 
 img: write4-cover.png
