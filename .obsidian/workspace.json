@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "27031c3b6e9c723f",
+    "type": "split",
+    "children": [
+      {
+        "id": "666a0164350701bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99f202c7d6e5ccbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-12-28-ropemporium-write4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-28-ropemporium-write4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df61ab34c4fe2b89",
+    "type": "split",
+    "children": [
+      {
+        "id": "c63a8037beaaa51d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28180e2935d4bcda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9c0308b7592f789e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6e7b970e16878dd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "2f074f39e335004d",
+    "type": "split",
+    "children": [
+      {
+        "id": "61186503f0e574ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83a569418741e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-12-28-ropemporium-write4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-12-28-ropemporium-write4"
+            }
+          },
+          {
+            "id": "c8e0371dd27cc8c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-12-28-ropemporium-write4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-12-28-ropemporium-write4"
+            }
+          },
+          {
+            "id": "7c4a469b34ca9c08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d7c8df3fb3341f72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-12-28-ropemporium-write4.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-12-28-ropemporium-write4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "99f202c7d6e5ccbe",
+  "lastOpenFiles": [
+    "_posts/2024-12-24-ropemporium-callme.md",
+    "_posts/2024-12-28-ropemporium-write4.md",
+    "assets/img/write4-cover.png",
+    "assets/img/write4-3.png",
+    "assets/img/write4-2.png",
+    "assets/img/write4-8.png",
+    "assets/img/write4-9.png",
+    "assets/img/write4-7.png",
+    "assets/img/write4-5.png",
+    "assets/img/write4-4.png",
+    "assets/img/write4-6.png",
+    "assets/img/write4-10.png",
+    "_posts/2024-12-24-ropemporium-ret2win.md",
+    "_posts/2024-12-24-ropemporium-split.md",
+    "_posts/2024-12-23-h0x65llo-world!0x00.md"
+  ]
+}
