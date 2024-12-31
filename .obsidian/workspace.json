@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-12-28-ropemporium-write4.md",
+                "file": "_posts/2024-12-28-ropemporium-badchars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-28-ropemporium-write4"
+              "title": "2024-12-28-ropemporium-badchars"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 372.5
   },
   "right": {
     "id": "2f074f39e335004d",
@@ -164,20 +164,28 @@
   },
   "active": "99f202c7d6e5ccbe",
   "lastOpenFiles": [
-    "_posts/2024-12-24-ropemporium-callme.md",
+    "_site/assets/img/ropemporium-badchars/badchars-cover.png",
+    "_site/assets/img/ropemporium-badchars/Pasted image 20241231011343.png",
+    "assets/img/ropemporium-badchars/badchars-cover.png",
+    "_site/ropemporium-badchars/index.html",
+    "_site/ropemporium-badchars",
+    "_site/ropemporium-write4/index.html",
+    "_site/ropemporium-write4",
+    "_site/assets/img/write4-cover.png",
+    "_site/assets/img/write4-9.png",
+    "_site/assets/img/write4-8.png",
+    "_site/assets/img/write4-7.png",
+    "_site/assets/img/write4-6.png",
+    "_site/assets/img/write4-5.png",
+    "_site/assets/img/write4-4.png",
+    "_site/assets/img/write4-3.png",
+    "_site/assets/img/ropemporium-badchars",
     "_posts/2024-12-28-ropemporium-write4.md",
-    "assets/img/write4-cover.png",
-    "assets/img/write4-3.png",
-    "assets/img/write4-2.png",
-    "assets/img/write4-8.png",
-    "assets/img/write4-9.png",
-    "assets/img/write4-7.png",
-    "assets/img/write4-5.png",
-    "assets/img/write4-4.png",
-    "assets/img/write4-6.png",
-    "assets/img/write4-10.png",
-    "_posts/2024-12-24-ropemporium-ret2win.md",
+    "_posts/2024-12-28-ropemporium-badchars.md",
+    "_posts/2024-12-24-ropemporium-callme.md",
     "_posts/2024-12-24-ropemporium-split.md",
+    "assets/img/ropemporium-badchars",
+    "_posts/2024-12-24-ropemporium-ret2win.md",
     "_posts/2024-12-23-h0x65llo-world!0x00.md"
   ]
 }

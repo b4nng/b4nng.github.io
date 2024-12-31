@@ -1,7 +1,8 @@
 {
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "assets/img",
+  "attachmentFolderPath": "assets/img/ropemporium-badchars",
   "newLinkFormat": "relative",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }
