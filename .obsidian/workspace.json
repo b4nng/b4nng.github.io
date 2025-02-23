@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-10-ropemporium-ret2csu.md",
+                "file": "_posts/2025-02-21-removingnullbytes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-10-ropemporium-ret2csu"
+              "title": "2025-02-21-removingnullbytes"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,29 +165,30 @@
   },
   "active": "ea06426f36949853",
   "lastOpenFiles": [
+    "_site/assets/img/removingnullbytes/cover_nullbytes.png",
+    "_site/assets/img/removingnullbytes/Pasted image 20250223112446.png",
+    "assets/img/removingnullbytes/cover_nullbytes.png",
+    "_site/removingnullbytes/index.html",
+    "_site/removingnullbytes",
+    "_site/assets/img/removingnullbytes/Pasted image 20250221103732.png",
+    "_site/assets/img/removingnullbytes/Pasted image 20250221103405.png",
+    "_site/assets/img/removingnullbytes",
+    "assets/img/removingnullbytes/Pasted image 20250221103732.png",
+    "assets/img/removingnullbytes/Pasted image 20250221103405.png",
+    "assets/img/removingnullbytes",
+    "_posts/2025-01-10-ropemporium-ret2csu.md",
+    "_posts/2025-02-21-removingnullbytes.md",
     "_site/assets/img/ropemporium-ret2csu/Pasted image 20250123233109.png",
     "assets/img/ropemporium-ret2csu/Pasted image 20250123233109.png",
     "assets/img/ropemporium-ret2csu/Pasted image 20250120202027.png",
-    "_posts/2025-01-10-ropemporium-ret2csu.md",
     "_site/assets/img/ropemporium-ret2csu/Pasted image 20250123230846.png",
-    "assets/img/ropemporium-ret2csu/Pasted image 20250123230846.png",
-    "assets/img/ropemporium-ret2csu/Pasted image 20250123230803.png",
-    "_site/assets/img/ropemporium-ret2csu/Pasted image 20250123230803.png",
-    "_site/assets/img/ropemporium-ret2csu/Pasted image 20250123230708.webp",
-    "_site/assets/img/ropemporium-ret2csu/Pasted image 20250123230708-1.webp",
-    "assets/img/ropemporium-ret2csu/Pasted image 20250123230708.webp",
-    "assets/img/ropemporium-ret2csu/Pasted image 20250123230529.webp",
     "_site/assets/img/ropemporium-ret2csu",
     "assets/img/ropemporium-ret2csu",
     "_site/ropemporium-ret2csu/index.html",
     "_site/ropemporium-ret2csu",
     "_site/page/2/index.html",
     "_site/page/2",
-    "_site/page",
     "_posts/2025-01-10-ropemporium-pivot.md",
-    "_site/ropemporium-pivot/index.html",
-    "_site/ropemporium-pivot",
-    "_site/assets/img/ropemporium-pivot",
     "_site/Untitled.md",
     "Untitled.md",
     "_posts/2025-01-05-ropemporium-fluff.md",
