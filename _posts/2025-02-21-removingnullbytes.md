@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing a null byte free shellcode
+title: Writing a null byte free shellcode for x86_64 Linux
 date: 2025-02-21 00:13:37 +0300
 description: 
 img: removingnullbytes/cover_nullbytes.png
